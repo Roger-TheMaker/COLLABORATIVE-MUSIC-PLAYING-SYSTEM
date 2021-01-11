@@ -4,4 +4,3 @@ music_controller/api/__pycache__/urls.cpython-310.pyc
 music_controller/api/__pycache__/serializers.cpython-310.pyc
 music_controller/api/__pycache__/models.cpython-310.pyc
 music_controller/db.sqlite3
-music_controller/frontend/static/frontend/main.js.LICENSE.txt
