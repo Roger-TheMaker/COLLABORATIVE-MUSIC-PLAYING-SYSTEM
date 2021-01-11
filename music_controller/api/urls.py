@@ -1,3 +1,6 @@
+"""
+high level support for doing this and that.
+"""
 from django.urls import path
 from .views import RoomView,CreateRoomView, GetRoom, JoinRoom, UserInRoom
 
